@@ -27,7 +27,7 @@ Users can type `echo (message)` in the terminal to display the message right bac
 
 # Links
 
-If you have missed the introduction above, the section link is provided right [here](index.md#Introduction).
+If you have missed the introduction above, the section link is provided right [here](#Introduction).
 
 [Testing file](CSE110Testing.txt) for the relative link.
 
