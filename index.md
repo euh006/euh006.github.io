@@ -28,7 +28,7 @@ Users can type `echo (message)` in the terminal to display the message right bac
 
 Can I quickly just redirect you to the [chocolate burger advertisement](index.md#uhh-chocolate-burger) again? Thanks. I just want to share it with everyone so it's not just me who saw this atrocity.
 
-And this is the [configuration](CSE110Testing.txt) I used for the website.
+[Testing file](CSE110Testing.txt) for the relative link.
 
 # Game Lists
 
