@@ -26,7 +26,7 @@ Users can type `echo (message)` in the terminal to display the message right bac
 
 # Links
 
-Can I quickly just redirect you to the [chocolate burger advertisement](https://github.com/euh006/euh006.github.io/blob/main/index.md#uhh-chocolate-burger) again? Thanks. I just want to share it with everyone so it's not just me who saw this atrocity.
+Can I quickly just redirect you to the [chocolate burger advertisement](index.md#uhh-chocolate-burger) again? Thanks. I just want to share it with everyone so it's not just me who saw this atrocity.
 
 And this is the [configuration](CSE110Testing.txt) I used for the website.
 
