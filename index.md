@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# Food pictures!
 
-You can use the [editor on GitHub](https://github.com/euh006/euh006.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Uhh, chocolate burger?
+![heh?](./0714180824.jpg)
+To quote Forrest Gump, 
+> Life is like a box of chocolate; you never know what you are going to get.
 
-### Markdown
+That must mean that this chocolate burger *could be* potentially good, right? ***right?*** ~~I take no responsibility for your ruined tastebud~~
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Thick bacon cream pasta
+![pasta](./0814182022.jpg)
 
-```markdown
-Syntax highlighted code block
+### Salmon sashimi
+![sashimi](./0821182029.jpg)
+**salmon is the best fish, _ever_.**
 
-# Header 1
-## Header 2
-### Header 3
+### Platter in AYCE curry resturant
+![platter](./0831181225.jpg)
+**AYCE curry is awesome!**
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+# Coding tip
 
-**Bold** and _Italic_ and `Code` text
+Users can type 'echo (message)' in the terminal to display the message right back, or redirect it into a file by typing 'echo (message) > (file name)' to avoid having to open up a text editor to create a text file.
 
-[Link](url) and ![Image](src)
-```
+# Links
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/euh006/euh006.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
