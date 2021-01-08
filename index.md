@@ -1,23 +1,24 @@
-# Food pictures!
+# Introduction
+
+Hello, my name is Richard. I am currently a fourth year Computer Engineering major in the ECE department. I have coded in Java, C++, and Python. I also have some experience with Quartus. For our digital systems class, we built SHA-256, which used in Bitcoin blockchain technology, based on provided testbench.
+
+I was born in Korea, and I am currently 22 years old. When I was about 10 years old, my father wanted me to study abroad in America because he believed that education there was better, and also partially because he wanted to see me during his a lengthy business trip in California. So ever since then, I have basically naturalized as a San Diegan; I never left San Diego. I was able to meet amazing people here, and have had awesome experience.
+
+![Picture of me](./1006181911a.jpg)
+I'm the guy on right! The other two are two of my best friends I met in high school.
+
+As for hobbies, I like to play videogames, and I also enjoy cooking food.
 
 
-### Uhh, chocolate burger?
-![uhhh](./0714180824.jpg)
-To quote Forrest Gump, 
-> Life is like a box of chocolate; you never know what you are going to get.
+# Style
 
-That must mean that this chocolate burger *could be* potentially good, right? ***right?*** ~~I take no responsibility for your ruined tastebud~~
+It is *interesting to see* how tone you are reading in your head **changes** based on the font size or style. ~~Does this sentence "sound" more snarky than the other ones?~~
 
-### Thick bacon cream pasta
-![pasta](./0814182022.jpg)
+**Testing for _extreme_ sentence**
 
-### Salmon sashimi
-![sashimi](./0821182029.jpg)
-**salmon is the best fish, _ever_.**
+***Testing for bold AND italic***
 
-### Platter in AYCE curry resturant
-![platter](./0831181225.jpg)
-**AYCE curry is awesome!**
+> Remember, there are no bad teachers, only bad students. - My high school teacher
 
 
 # Coding tip
@@ -26,7 +27,7 @@ Users can type `echo (message)` in the terminal to display the message right bac
 
 # Links
 
-Can I quickly just redirect you to the [chocolate burger advertisement](index.md#uhh-chocolate-burger) again? Thanks. I just want to share it with everyone so it's not just me who saw this atrocity.
+I have listed [games I play frequently](index.md#Game-Lists) below, so if you do play any of below, let me know and maybe we can play together!
 
 [Testing file](CSE110Testing.txt) for the relative link.
 
