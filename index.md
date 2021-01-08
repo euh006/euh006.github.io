@@ -27,7 +27,7 @@ Users can type `echo (message)` in the terminal to display the message right bac
 
 # Links
 
-I have listed [games I play frequently](index.md#Game-Lists) below, so if you do play any of below, let me know and maybe we can play together!
+If you have missed the introduction above, the section link is provided right [here](index.md#Introduction).
 
 [Testing file](CSE110Testing.txt) for the relative link.
 
