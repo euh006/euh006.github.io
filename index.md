@@ -28,7 +28,7 @@ Users can type `echo (message)` in the terminal to display the message right bac
 
 Can I quickly just redirect you to the [chocolate burger advertisement](https://github.com/euh006/euh006.github.io/blob/main/index.md#uhh-chocolate-burger) again? Thanks. I just want to share it with everyone so it's not just me who saw this atrocity.
 
-And this is the [configuration](./_config.yml) I used for the website.
+And this is the [configuration](_config.yml) I used for the website.
 
 # Game Lists
 
